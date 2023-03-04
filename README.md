@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Mobile developer base in Toronto, ON</h3>
+<h3 align="center">Mobile developer based in Toronto, ON</h3>
 
 - 🔭 I’m currently working on [Waste Android App](https://github.com/Ninise/WasteAndroidApp)
 
