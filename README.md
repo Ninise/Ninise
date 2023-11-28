@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Waste Android App](https://github.com/Ninise/WasteAndroidApp)
 
-- 🌱 I’m currently learning **Web Development using React/Redux and Solidity**
+- 🌱 I’m currently learning **UX enchancing in mobile apps**
 
 - 💬 Ask me about **iOS or Android development**
 
 - 📫 How to reach me **nikitin.ninise@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://ninisee.com/static/media/Nikita_N_CV.a8fa22c135ff96db2be1.pdf)
+- 📄 Know about my experiences [Resume.pdf](https://docs.google.com/document/d/1Kzu_gEc5RMRsoQNt_tCZMeFuER_rdroKPwyRglCrShM/edit?usp=sharing)
 
 - ⚡ Fun fact **I can swim 50 meters under water**
 
