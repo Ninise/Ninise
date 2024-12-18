@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Senior Mobile developer based in Kitchener, ON</h3>
 
-- 🔭 I’m currently working on [Backlog.ing](https://backlong.ing)
+- 🔭 I’m currently working on [Backlog.ing](https://backlog.ing)
 
 - 🌱 I’m currently learning **Kotlin multiplatform and looking into Flutter**
 
