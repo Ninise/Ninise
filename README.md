@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Senior Mobile developer based in Kitchener, ON</h3>
 
-- 🔭 I’m currently working on [Waste Android App](https://github.com/Ninise/WasteAndroidApp)
+- 🔭 I’m currently working on [Backlog.ing](https://backlong.ing)
 
-- 🌱 I’m currently learning **UX enchancing in mobile apps**
+- 🌱 I’m currently learning **Kotlin multiplatform and looking into Flutter**
 
 - 💬 Ask me about **iOS or Android development**
 
