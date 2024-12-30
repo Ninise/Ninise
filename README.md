@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikitin.ninise@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://docs.google.com/document/d/1Kzu_gEc5RMRsoQNt_tCZMeFuER_rdroKPwyRglCrShM/edit?usp=sharing)
+- 📄 Know about my experiences [Resume.pdf](https://docs.google.com/document/d/16hNMJNyqocVsu9cVisxrk52pawGZOv00f72DSN3gNWo/edit?usp=sharing)
 
 - ⚡ Fun fact **I can swim 50 meters under water**
 
